@@ -1,0 +1,67 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Three musketers",
+      "author": "Alexander Duma",
+      "genres": "['adventures']",
+      "rating": "9.7"
+    },
+    {
+      "id": "2",
+      "title": "Iron fit",
+      "author": "Jack London",
+      "genres": "['drama']",
+      "rating": "8.6"
+    },
+    {
+      "id": "3",
+      "title": "476 degrees per Farengeht",
+      "author": "George Orwell",
+      "genres": "['satire']",
+      "rating": "7.4"
+    },
+    {
+      "id": "4",
+      "title": "Lord of th rings",
+      "author": "John R. Tolkin",
+      "genres": "['fantesy']",
+      "rating": "6.7"
+    },
+    {
+      "id": "5",
+      "title": "Fancing teacher",
+      "author": "Alexander Duma",
+      "genres": "['adventures']",
+      "rating": "9.7"
+    },
+    {
+      "title": "Duna",
+      "author": "Frank Herbert",
+      "genres": [
+        "science-fantasy"
+      ],
+      "rating": 7.8,
+      "id": "T_cBiVS"
+    },
+    {
+      "title": "Metro 2033",
+      "author": "Dmitriy Gluhovsky",
+      "genres": [
+        "science-fantasy",
+        "post-apocaliptic"
+      ],
+      "rating": 10,
+      "id": "KYwtIUJ"
+    },
+    {
+      "title": "Man on The Moon",
+      "author": "Me",
+      "ganres": [
+        "wtf"
+      ],
+      "rating": 8.5,
+      "id": "oBtfWLW"
+    }
+  ]
+}
